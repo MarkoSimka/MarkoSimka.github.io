@@ -13,7 +13,7 @@
         "SubjectId": "c816e237-33d0-4b0c-b8f4-d688c3d4b33c"
       },
       {
-        "Id": "b2c3d4e5-6789-01fg-2345-678901abcdef",
+        "Id": "b2c3d4e5-6789-01f2-3456-7890abcdef12",
         "Title": "Atoms and Molecules",
         "Author": "John Dalton",
         "Year": 2019,
@@ -28,40 +28,18 @@
     "NumberOfWeeklyClasses": 5,
     "LiteratureUsed": [
       {
-        "Id": "c3d4e5f6-7890-12gh-3456-789012abcdef",
+        "Id": "c3d4e5f6-7890-12a3-4567-8901abcdef23",
         "Title": "Computer Science Principles",
         "Author": "Ada Lovelace",
         "Year": 2021,
         "SubjectId": "e01c02e7-ae30-491f-9bb7-3ed13b6b0c3f"
       },
       {
-        "Id": "d4e5f6g7-8901-23hi-4567-890123abcdef",
+        "Id": "d4e5f6g7-8901-23b4-5678-9012abcdef34",
         "Title": "Learn to Code",
         "Author": "Grace Hopper",
         "Year": 2022,
         "SubjectId": "e01c02e7-ae30-491f-9bb7-3ed13b6b0c3f"
-      }
-    ]
-  },
-  {
-    "Id": "f9a501b8-8bcb-423b-a9d8-260b54a09722",
-    "Name": "Geography",
-    "Description": "Physical and human geography concepts.",
-    "NumberOfWeeklyClasses": 3,
-    "LiteratureUsed": [
-      {
-        "Id": "e5f6g7h8-9012-34ij-5678-901234abcdef",
-        "Title": "Global Geography",
-        "Author": "Alexander von Humboldt",
-        "Year": 2018,
-        "SubjectId": "f9a501b8-8bcb-423b-a9d8-260b54a09722"
-      },
-      {
-        "Id": "f6g7h8i9-0123-45jk-6789-012345abcdef",
-        "Title": "Maps and Territories",
-        "Author": "Gerardus Mercator",
-        "Year": 2017,
-        "SubjectId": "f9a501b8-8bcb-423b-a9d8-260b54a09722"
       }
     ]
   }
